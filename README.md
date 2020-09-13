@@ -1,6 +1,6 @@
 # Video capture from network camera
 
-This simple script can be used to save a video from a network attached camera. It is pre-configured to work with the Axis cameras and the D-Link cameras. (The D-link cameras are the property of Tommy Alm (NFC).)
+This simple script can be used to save a video from a network attached camera. It is pre-configured to work with the Axis cameras and the D-Link cameras. 
 
 To use this the computer has to be connected to the same network as he cameras. The cameras have fixed IP:s (except for the Dlink DSC90 which has dynamic; check in router software what IP it got and change accordingly in code. This is annoying but the camera was not cooperative :-) ) 
 
